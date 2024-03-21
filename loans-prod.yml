@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs from github  updatemngmnt v2"
+  message: "Welcome to EazyBank loans related prod production APIs from github  updatemngmnt v2"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}f2da327a3a5f129c0f3c8f562e7caff460dfa993d55b8f368474e0b56e937d19e85043ea2b094e75fb13965ebe24b586b03704f823e2b37ec6fb5706044fdc16"

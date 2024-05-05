@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod productionv3 APIs config serve frmdsk  "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "caf61df52a569291576dc7db016cb14af786c06d15f5d2092dadb9522a30e45f005bb8108a7276178f590e81cd141e0627ea04b565cde579e8788cb2a69ff13f"
+    email: "{cipher}caf61df52a569291576dc7db016cb14af786c06d15f5d2092dadb9522a30e45f005bb8108a7276178f590e81cd141e0627ea04b565cde579e8788cb2a69ff13f"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384

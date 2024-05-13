@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod productionv3 APIs config serve frmdsk update rbtmq update3 08-05-2024 update 13-05-2024"
+  message: "Welcome to EazyBank accounts related prod productionv3 APIs config serve frmdsk update rbtmq update3 08-05-2024 update 13-05-2024--2"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}caf61df52a569291576dc7db016cb14af786c06d15f5d2092dadb9522a30e45f005bb8108a7276178f590e81cd141e0627ea04b565cde579e8788cb2a69ff13f"

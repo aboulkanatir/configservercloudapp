@@ -5,7 +5,7 @@ eureka:
     hostname: localhost
     health-check-interval-seconds: 30
     lease-renewal-interval-in-seconds: 15
-    lease-expiration-duration-in-seconds: 90
+    lease-expiration-duration-in-seconds: 30
     health-check-url-path: /actuator/health
   client:
     fetchRegistry: false
